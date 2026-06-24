@@ -2,11 +2,11 @@
 
 A circular artist gallery featuring 15 music icons — built with vanilla JS, GSAP animations, and Vite.
 
-🔗 **Live Demo → [the-15-notes.vercel.app](https://the-15-notes.vercel.app)**
+**Live Demo → [the-15-notes.vercel.app](https://the-15-notes.vercel.app)**
 
 ---
 
-## ✨ Features
+## Features
 
 - 25-card circular rotating gallery
 - Mouse parallax & 3D card flip on hover
@@ -16,7 +16,7 @@ A circular artist gallery featuring 15 music icons — built with vanilla JS, GS
 
 ---
 
-## 🚀 Local Development
+## Local Development
 
 ```bash
 # Install dependencies
@@ -32,7 +32,7 @@ npm run build
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Vite** — lightning-fast dev server & bundler
 - **GSAP 3** — animations & transitions
