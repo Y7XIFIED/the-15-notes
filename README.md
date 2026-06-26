@@ -41,42 +41,42 @@ The-15-Notes/
 │   ├── fonts
 │   │   └── Nasalization Rg.otf
 │   └── img
-│       ├── @vmqis olivia rodrigo guts poster.jpg
-│       ├── ASAP Rocky.jpg
-│       ├── billie poster.jpg
-│       ├── BRUNOO.jpg
-│       ├── download (1).jpg
-│       ├── download (2).jpg
-│       ├── download (3).jpg
-│       ├── download.jpg
-│       ├── eminem 4 life.jpg
-│       ├── frank ocean.jpg
-│       ├── img1.jpeg
-│       ├── img10.jpeg
-│       ├── img11.jpeg
-│       ├── img12.jpeg
-│       ├── img13.jpeg
-│       ├── img14.jpeg
-│       ├── img15.jpeg
-│       ├── img16.jpeg
-│       ├── img17.jpeg
-│       ├── img18.jpeg
-│       ├── img19.jpeg
-│       ├── img2.jpeg
-│       ├── img20.jpeg
-│       ├── img3.jpeg
-│       ├── img4.jpeg
-│       ├── img5.jpeg
-│       ├── img6.jpeg
-│       ├── img7.jpeg
-│       ├── img8.jpeg
-│       ├── img9.jpeg
-│       ├── Kendrick Lamar - GNX __ Poster.jpg
-│       ├── lady gaga poster.jpg
-│       ├── madison beer ⭑.jpg
-│       ├── Rihanna Poster.jpg
-│       ├── The Weeknd poster signature.jpg
-│       └── themarias poster.jpg
+│       ├── 1.jpg
+│       ├── 10.jpg
+│       ├── 11.jpeg
+│       ├── 12.jpeg
+│       ├── 13.jpeg
+│       ├── 14.jpeg
+│       ├── 15.jpeg
+│       ├── 16.jpeg
+│       ├── 17.jpeg
+│       ├── 18.jpeg
+│       ├── 19.jpeg
+│       ├── 2.jpg
+│       ├── 20.jpeg
+│       ├── 21.jpeg
+│       ├── 22.jpeg
+│       ├── 23.jpeg
+│       ├── 24.jpeg
+│       ├── 25.jpeg
+│       ├── 26.jpeg
+│       ├── 27.jpeg
+│       ├── 28.jpeg
+│       ├── 29.jpeg
+│       ├── 3.jpg
+│       ├── 30.jpeg
+│       ├── 31.jpg
+│       ├── 32.jpg
+│       ├── 33.jpg
+│       ├── 34.jpg
+│       ├── 35.jpg
+│       ├── 36.jpg
+│       ├── 4.jpg
+│       ├── 5.jpg
+│       ├── 6.jpg
+│       ├── 7.jpg
+│       ├── 8.jpg
+│       └── 9.jpg
 ├── favicon.png
 ├── index.html
 ├── package-lock.json
