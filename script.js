@@ -1,20 +1,20 @@
 const collection = [
-	{ title: 'Olivia Rodrigo', img: new URL('./assets/img/@vmqis olivia rodrigo guts poster.jpg', import.meta.url).href },
-	{ title: 'ASAP Rocky', img: new URL('./assets/img/ASAP Rocky.jpg', import.meta.url).href },
-	{ title: 'Bruno', img: new URL('./assets/img/BRUNOO.jpg', import.meta.url).href },
-	{ title: 'Kendrick Lamar', img: new URL('./assets/img/Kendrick Lamar - GNX __ Poster.jpg', import.meta.url).href },
-	{ title: 'Rihanna', img: new URL('./assets/img/Rihanna Poster.jpg', import.meta.url).href },
-	{ title: 'The Weeknd', img: new URL('./assets/img/The Weeknd poster signature.jpg', import.meta.url).href },
-	{ title: 'Billie Eilish', img: new URL('./assets/img/billie poster.jpg', import.meta.url).href },
-	{ title: 'Singer 1', img: new URL('./assets/img/download (1).jpg', import.meta.url).href },
-	{ title: 'Singer 2', img: new URL('./assets/img/download (2).jpg', import.meta.url).href },
-	{ title: 'Singer 3', img: new URL('./assets/img/download (3).jpg', import.meta.url).href },
-	{ title: 'Singer 4', img: new URL('./assets/img/download.jpg', import.meta.url).href },
-	{ title: 'Eminem', img: new URL('./assets/img/eminem 4 life.jpg', import.meta.url).href },
-	{ title: 'Frank Ocean', img: new URL('./assets/img/frank ocean.jpg', import.meta.url).href },
-	{ title: 'Lady Gaga', img: new URL('./assets/img/lady gaga poster.jpg', import.meta.url).href },
-	{ title: 'Madison Beer', img: new URL('./assets/img/madison beer ⭑.jpg', import.meta.url).href },
-	{ title: 'The Marias', img: new URL('./assets/img/themarias poster.jpg', import.meta.url).href }
+	{ title: 'Olivia Rodrigo', img: new URL('./assets/img/1.jpg', import.meta.url).href },
+	{ title: 'ASAP Rocky', img: new URL('./assets/img/2.jpg', import.meta.url).href },
+	{ title: 'Bruno', img: new URL('./assets/img/4.jpg', import.meta.url).href },
+	{ title: 'Kendrick Lamar', img: new URL('./assets/img/31.jpg', import.meta.url).href },
+	{ title: 'Rihanna', img: new URL('./assets/img/34.jpg', import.meta.url).href },
+	{ title: 'The Weeknd', img: new URL('./assets/img/35.jpg', import.meta.url).href },
+	{ title: 'Billie Eilish', img: new URL('./assets/img/3.jpg', import.meta.url).href },
+	{ title: 'Singer 1', img: new URL('./assets/img/5.jpg', import.meta.url).href },
+	{ title: 'Singer 2', img: new URL('./assets/img/6.jpg', import.meta.url).href },
+	{ title: 'Singer 3', img: new URL('./assets/img/7.jpg', import.meta.url).href },
+	{ title: 'Singer 4', img: new URL('./assets/img/8.jpg', import.meta.url).href },
+	{ title: 'Eminem', img: new URL('./assets/img/9.jpg', import.meta.url).href },
+	{ title: 'Frank Ocean', img: new URL('./assets/img/10.jpg', import.meta.url).href },
+	{ title: 'Lady Gaga', img: new URL('./assets/img/32.jpg', import.meta.url).href },
+	{ title: 'Madison Beer', img: new URL('./assets/img/33.jpg', import.meta.url).href },
+	{ title: 'The Marias', img: new URL('./assets/img/36.jpg', import.meta.url).href }
 ]
 
 document.addEventListener('DOMContentLoaded', () => {
