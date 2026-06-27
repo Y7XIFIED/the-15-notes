@@ -4,7 +4,7 @@
 
 ## 🚀 Live Website
 Experience the fully interactive website live here:
-[Live Demo](https://the-15-notes.vercel.app)
+[Live Demo](https://the-15-notes-6966apdbb-yugank.vercel.app)
 
 ## 🎮 How to Control
 Interact dynamically with your mouse or touch to explore the visual effects! Move your cursor around the screen or tap anywhere on mobile devices to trigger smooth animations and interactions.
